@@ -1,1 +1,2 @@
-MIT LICENSE
+#MIT LICENSE
+    MIT LICENSE is authority
